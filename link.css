@@ -1,0 +1,55 @@
+* {
+     box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h1{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(253, 243, 243);
+    font-family: cursive;
+}
+
+header{
+
+    background-color: rgb(190, 139, 190);
+}
+
+nav{
+    background-color: rgb(145, 141, 137) ;
+    
+}
+
+nav a {
+    text-decoration: white;
+    padding: 10px;
+    text-align: center;
+    
+    color: white;
+    font-size: 20px;
+}
+
+main{
+    background-color: rgb(252, 248, 248);
+    text-align: center;
+
+}
+p{
+    font-family: cursive;
+}
+
+img{
+    padding: 10px;
+}
+footer{
+    width: 100vw;
+    background-color: rgb(190, 139, 190);
+    color: rgb(3, 3, 3);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}

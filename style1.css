@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('back\ 1.jpg');
+    width: 100%;
+    height: 100px;
+}
+
+header{
+    width: 100vw;
+    height: 70px;
+    background-color:rgba(45, 156, 145, 0.8);
+    color: rgb(8, 8, 8);
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: rgba(216, 203, 196, 0.8);
+    
+}
+nav a{
+    text-decoration: rgb(8, 8, 8);
+    padding: 5px;
+    text-align: center;
+    
+    color: rgb(10, 10, 10);
+    font-size: 20px
+    
+}
+
+
+#cover{
+    opacity: 0.75;
+}
+
+#content{
+    margin-top: 20px;
+    margin-left: 10%;
+    width: 80%;
+    color: rgb(15, 15, 15);
+    background-color: rgba(216, 203, 196, 0.8);
+    border-radius: 1%;
+  
+}
+
+.box{
+    width: auto;
+    height: 300px;
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-left: 5%;
+    
+    overflow-y: auto;
+    
+}
+p{
+    font-family: cursive;
+}
+h4{
+    font-family: cursive;
+    
+}
+h2{
+    font-family: cursive;
+}
+
+.box div{
+    display: inline-block;
+}
+
+.book{
+    width: 20%;
+    height: 90%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+
+#book1{
+    background-image: url('yg.jpg');
+}
+#book2{
+    background-image: url('st.jpg');
+}
+#book3{
+    background-image: url('mk.jpg');
+}
+#book4{
+    background-image: url('hs.jpg');
+}
+#book5{
+    background-image: url('ik.jpg');
+}
+
+.about-book{
+    width: 70%;
+    margin-right: 5%;
+    float: right;
+}
+
+footer{
+    width: 100vw;
+    background-color: rgba(45, 156, 145, 0.8);
+    color: rgb(3, 3, 3);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
